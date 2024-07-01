@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "verifed-contracts-backend": {
+      "main": "src/verifed-contracts-backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
