@@ -4,7 +4,6 @@ import Text "mo:base/Text";
 actor {
 
   type UniqueID = Text;
-  type User = Text;
 
   type Entry = {
     //type of test
